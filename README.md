@@ -42,11 +42,7 @@ Technical walkthrough and deep dive into the prototype features, federated learn
 
 ---
 
-### 2. Project Overview & Walkthrough
-Introduction to CogniFlow, motivation, and system architecture.
-
-[![CogniFlow Video Walkthrough](docs/cogniflow_demo_cover.png)](https://www.youtube.com/watch?v=tPgO5taoUmY)
-
+### 2. Introduction Video
 - **YouTube Link:** [Watch Introduction Video](https://www.youtube.com/watch?v=tPgO5taoUmY)
 - **Local Video File:** [docs/cogniflow_intro.mp4](docs/cogniflow_intro.mp4) (Included directly in this repository)
 
