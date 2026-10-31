@@ -1,8 +1,10 @@
 # CogniFlow: Federated Traffic Prediction & Communication Cost Analysis
 
 [![Live Deployment](https://img.shields.io/badge/Live%20Demo-cogniflow1223.vercel.app-0070F3?style=for-the-badge&logo=vercel&logoColor=white)](https://cogniflow1223.vercel.app/)
+[![YouTube Video](https://img.shields.io/badge/YouTube-Video%20Walkthrough-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=tPgO5taoUmY)
 
 > 🚀 **Live Production Deployment:** [https://cogniflow1223.vercel.app/](https://cogniflow1223.vercel.app/)
+> 📺 **Video Walkthrough:** [https://www.youtube.com/watch?v=tPgO5taoUmY](https://www.youtube.com/watch?v=tPgO5taoUmY)
 
 High-performance, dark-mode research platform for spatio-temporal traffic flow forecasting, virtual client partition profiling, FedAvg orchestration, and communication cost modeling in intelligent transportation networks.
 
@@ -18,6 +20,13 @@ The platform is deployed and fully operational in production on Vercel:
 - **Architecture:** 100% Client-Side In-Browser Federated Learning Simulation (Web Worker + Three.js)
 
 ---
+
+## 📺 Project Walkthrough & Introduction Video
+
+[![CogniFlow Video Walkthrough](https://img.youtube.com/vi/tPgO5taoUmY/maxresdefault.jpg)](https://www.youtube.com/watch?v=tPgO5taoUmY)
+
+- **YouTube Link:** [Watch on YouTube (Full HD Walkthrough)](https://www.youtube.com/watch?v=tPgO5taoUmY)
+- **Local Video File:** [docs/cogniflow_intro.mp4](docs/cogniflow_intro.mp4) (Included directly in this repository)
 
 ## Quick Start & Commands
 
