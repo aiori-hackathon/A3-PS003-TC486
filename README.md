@@ -2,10 +2,12 @@
 
 [![Live Deployment](https://img.shields.io/badge/Live%20Demo-cogniflow1223.vercel.app-0070F3?style=for-the-badge&logo=vercel&logoColor=white)](https://cogniflow1223.vercel.app/)
 [![YouTube Video](https://img.shields.io/badge/YouTube-Video%20Walkthrough-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=tPgO5taoUmY)
+[![Presentation PDF](https://img.shields.io/badge/Presentation-cognippt.pdf-E53935?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](docs/cognippt.pdf)
 
 > 🚀 **Live Production Deployment:** [https://cogniflow1223.vercel.app/](https://cogniflow1223.vercel.app/)
 > 🎬 **Introduction Video:** [https://www.youtube.com/watch?v=tPgO5taoUmY](https://www.youtube.com/watch?v=tPgO5taoUmY)
 > 🔬 **Prototype Deep-Dive Video:** [https://www.youtube.com/watch?v=o5dVqzB_hK8](https://www.youtube.com/watch?v=o5dVqzB_hK8)
+> 📄 **Presentation Slides (PDF):** [docs/cognippt.pdf](docs/cognippt.pdf)
 
 High-performance, dark-mode research platform for spatio-temporal traffic flow forecasting, virtual client partition profiling, FedAvg orchestration, and communication cost modeling in intelligent transportation networks.
 
@@ -19,6 +21,13 @@ The platform is deployed and fully operational in production on Vercel:
 - **Production URL:** [https://cogniflow1223.vercel.app/](https://cogniflow1223.vercel.app/)
 - **Hosting:** Vercel Edge CDN
 - **Architecture:** 100% Client-Side In-Browser Federated Learning Simulation (Web Worker + Three.js)
+
+---
+
+## 📄 Project Presentation & Slide Deck
+
+The full technical presentation and proposal deck for CogniFlow is available directly in the repository:
+- **Slide Deck:** [docs/cognippt.pdf](docs/cognippt.pdf)
 
 ---
 
