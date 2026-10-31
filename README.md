@@ -4,7 +4,8 @@
 [![YouTube Video](https://img.shields.io/badge/YouTube-Video%20Walkthrough-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=tPgO5taoUmY)
 
 > 🚀 **Live Production Deployment:** [https://cogniflow1223.vercel.app/](https://cogniflow1223.vercel.app/)
-> 📺 **Video Walkthrough:** [https://www.youtube.com/watch?v=tPgO5taoUmY](https://www.youtube.com/watch?v=tPgO5taoUmY)
+> 🎬 **Introduction Video:** [https://www.youtube.com/watch?v=tPgO5taoUmY](https://www.youtube.com/watch?v=tPgO5taoUmY)
+> 🔬 **Prototype Deep-Dive Video:** [https://www.youtube.com/watch?v=o5dVqzB_hK8](https://www.youtube.com/watch?v=o5dVqzB_hK8)
 
 High-performance, dark-mode research platform for spatio-temporal traffic flow forecasting, virtual client partition profiling, FedAvg orchestration, and communication cost modeling in intelligent transportation networks.
 
@@ -21,12 +22,26 @@ The platform is deployed and fully operational in production on Vercel:
 
 ---
 
-## 📺 Project Walkthrough & Introduction Video
+## 📺 Demonstration & Explanation Videos
+
+### 1. Prototype Deep-Dive Explanation
+Technical walkthrough and deep dive into the prototype features, federated learning simulation, and communication-cost evaluation.
+
+[![CogniFlow Prototype Explanation](https://img.youtube.com/vi/o5dVqzB_hK8/maxresdefault.jpg)](https://www.youtube.com/watch?v=o5dVqzB_hK8)
+
+- **YouTube Link:** [Watch Prototype Explanation Video](https://www.youtube.com/watch?v=o5dVqzB_hK8)
+
+---
+
+### 2. Project Overview & Walkthrough
+Introduction to CogniFlow, motivation, and system architecture.
 
 [![CogniFlow Video Walkthrough](https://img.youtube.com/vi/tPgO5taoUmY/maxresdefault.jpg)](https://www.youtube.com/watch?v=tPgO5taoUmY)
 
-- **YouTube Link:** [Watch on YouTube (Full HD Walkthrough)](https://www.youtube.com/watch?v=tPgO5taoUmY)
+- **YouTube Link:** [Watch Introduction Video](https://www.youtube.com/watch?v=tPgO5taoUmY)
 - **Local Video File:** [docs/cogniflow_intro.mp4](docs/cogniflow_intro.mp4) (Included directly in this repository)
+
+---
 
 ## Quick Start & Commands
 
