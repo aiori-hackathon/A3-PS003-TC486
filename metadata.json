@@ -1,6 +1,6 @@
 {
-  "name": "CogniFlow",
-  "description": "Federated traffic-flow prediction simulator with physical 3D city visualization and communication cost analysis.",
+  "name": "",
+  "description": "",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
