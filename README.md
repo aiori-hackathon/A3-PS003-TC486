@@ -1,8 +1,21 @@
 # CogniFlow: Federated Traffic Prediction & Communication Cost Analysis
 
+[![Live Deployment](https://img.shields.io/badge/Live%20Demo-cogniflow1223.vercel.app-0070F3?style=for-the-badge&logo=vercel&logoColor=white)](https://cogniflow1223.vercel.app/)
+
+> 🚀 **Live Production Deployment:** [https://cogniflow1223.vercel.app/](https://cogniflow1223.vercel.app/)
+
 High-performance, dark-mode research platform for spatio-temporal traffic flow forecasting, virtual client partition profiling, FedAvg orchestration, and communication cost modeling in intelligent transportation networks.
 
 Everything runs **100% in the browser** powered by an off-main-thread Web Worker (`src/fl/engine.worker.ts`), a pure typed-array contiguous Float32Array neural network engine (`src/models/neuralNet.ts`, `src/fl/trainer.ts`, `src/fl/engine.ts`), and an optimized Three.js 3D city visualization (`src/three/City3DCanvas.tsx`).
+
+---
+
+## Live Deployment
+
+The platform is deployed and fully operational in production on Vercel:
+- **Production URL:** [https://cogniflow1223.vercel.app/](https://cogniflow1223.vercel.app/)
+- **Hosting:** Vercel Edge CDN
+- **Architecture:** 100% Client-Side In-Browser Federated Learning Simulation (Web Worker + Three.js)
 
 ---
 
